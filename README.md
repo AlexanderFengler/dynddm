@@ -20,7 +20,7 @@ pip install git+https://github.com/AlexanderFengler/ssm_simulators
 
 You can run the jupyter notebooks in colab, just click on the links below: 
 
-- [tests_simulators](https://colab.research.google.com/github/AlexanderFengler/dynddm/blob/main/tests_simulators.ipynb)
+- [tests_simulators](https://colab.research.google.com/github/AlexanderFengler/dynddm/blob/main/tests_simulator.ipynb)
 - [drift_investigations](https://colab.research.google.com/github/AlexanderFengler/dynddm/blob/main/drift_investigations.ipynb)
 
 
